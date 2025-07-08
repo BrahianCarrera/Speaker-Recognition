@@ -9,3 +9,6 @@ Puedes ejecutar este notebook de dos formas:
 
 El dataset está alojado directamente en el repositorio, así que no necesitas descargar nada adicional.
 Solo abre el notebook y empieza a ejecutar!
+
+
+Video Final : https://youtu.be/GITY7_UEhdM
